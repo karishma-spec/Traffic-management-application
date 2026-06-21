@@ -46,6 +46,4 @@ Currently configured for Pune municipal zones including Hinjewadi IT Park, Pune 
 
 ---
 
-## Team
 
-Developed as a collaborative academic project at Army Institute of Technology, Pune.
